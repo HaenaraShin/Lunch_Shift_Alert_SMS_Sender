@@ -1,0 +1,1 @@
+key_init ={'api_key':"",'api_secret':"","sender":"",'URL': '','supervisor':'', 'sys_admin_phone':''}
